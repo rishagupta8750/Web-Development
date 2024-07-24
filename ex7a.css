@@ -1,0 +1,25 @@
+.search
+{
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px ;
+    border-radius: 6px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    margin-bottom: 40px;
+}
+
+.search2
+{
+    width: 200px;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 240px;
+    border-radius: 20px;
+    padding-left: 15px;
+    border: none;
+    box-shadow: 0px 1px 5px rgba(200, 200, 200, 0.5);
+    margin-bottom: 40px;
+}
